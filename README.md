@@ -1,3 +1,3 @@
 # ManualUI-AL
 
-Simple application communicating with public API and AutoLayout constraints set programatically. It is created without the usage of 3rd party libraries and storyboard/xib files.
+Simple application fetching data from public API. AutoLayout constraints are being set programatically. It is created without the usage of 3rd party libraries and storyboard/xib files.
